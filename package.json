@@ -52,13 +52,13 @@
     "asn1.js": "=4.9.1",
     "asn1.js-rfc3280": "=4.0.0",
     "asn1.js-rfc5280": "=2.0.0",
-    "bitcore-lib": "anonymousbitcoin/bitcore-lib-anon",
+    "bitcore-lib-anon": "anonymousbitcoin/bitcore-lib-anon",
     "bs58": "^4.0.1",
     "jsrsasign": "^8.0.4",
     "protobufjs": "=5.0.1"
   },
   "devDependencies": {
-    "bitcore-build": "https://github.com/bitpay/bitcore-build.git#d4e8b2b2f1e2c065c3a807dcb6a6250f61d67ab3",
+    "bitcore-build-anon": "anonymousbitcoin/bitcore-build-anon",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
