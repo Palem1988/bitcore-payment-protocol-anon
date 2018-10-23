@@ -3,6 +3,8 @@ coverage
 node_modules
 bitcore-payment-protocol.js
 bitcore-payment-protocol.min.js
+bitcore-payment-protocol-anon.js
+bitcore-payment-protocol-anon.min.js
 tests.js
 
 lib/errors/index.js
